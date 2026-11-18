@@ -3,5 +3,4 @@ dist
 .parcel-cache
 .git
 .gitignore
-Dockerfile
 README.md
